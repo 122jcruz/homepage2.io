@@ -1,0 +1,267 @@
+.past{
+  position: absolute;
+  top: 0px;
+  left:0px;
+  width:2000px;
+  height: 15px;
+}
+.black{
+  position: absolute;
+  top: 0px;
+  left:0px;
+  width:2000px;
+  height: 90px;
+}
+table{
+  position: absolute;
+  top: 25px;
+  left:0px;
+  width:1000px;
+  font-size:30px;
+  font-family: 'Amatic SC', cursive;
+  color:#FFFFFF;
+}
+a:hover,th:hover{
+  color:#FF9686;
+}
+a{
+  color:#FFFFFF;
+}
+.pastel{
+  position: absolute;
+  top: 75px;
+  left:0px;
+  width:2000px;
+  height: 15px;
+}
+.j{
+  font-size: 100px;
+  background: -webkit-linear-gradient(#fcc16d, #cc73f5);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'Amatic SC', cursive;
+  position: absolute;
+  top: 60px;
+  left:900px;
+}
+.w{
+  font-family: 'Amatic SC', cursive;
+  position: absolute;
+  top: 230px;
+  left:875px;
+}
+.me{
+  position: absolute;
+  top: 290px;
+  left:700px;
+  width:500px;
+}
+#moop{
+  width:150px;
+  position: absolute;
+}
+.f{
+  top: 80px;
+  left:100px;
+}
+.fl{
+  top: 250px;
+  left:180px;
+}
+.flowers{
+  top: 500px;
+  left:70px;
+}
+.flower{
+  top: 750px;
+  left:180px;
+}
+.flo{
+  top:80px;
+  left:1650px;
+}
+.flow{
+  top: 250px;
+  left:1520px;
+}
+.flowe{
+  top: 500px;
+  left:1700px;
+}
+.flowerss{
+  top: 750px;
+  left:1550px;
+}
+.purple{
+  position: absolute;
+  top: 900px;
+  left:200px;
+  width:1500px;
+  height: 15px;
+}
+.bit{
+  position: absolute;
+  top: 1100px;
+  left:200px;
+  width: 600px;
+  background-color:#E88BA1;
+}
+.bit:hover{
+  background-color:#E88BA1;
+  -moz-box-shadow: 0 0 20px #ccc;
+      -webkit-box-shadow: 0 0 20px #ccc;
+      box-shadow: 0 10 20px #ccc;
+}
+.hi{
+  font-size: 80px;
+  position: absolute;
+  top: 1100px;
+  left:990px;
+  font-family: 'BenchNine', sans-serif;
+}
+.hi:hover{
+  background-color: #E48CA0;
+}
+h3{
+  position: absolute;
+  top: 1200px;
+  left:990px;
+  font-family: 'BenchNine', sans-serif;
+  font-size: 50px
+}
+p{
+  font-size:30px;
+  position: absolute;
+  top: 1300px;
+  left:990px;
+  font-family: 'BenchNine', sans-serif;
+}
+.t{
+  position: absolute;
+  top: 2000px;
+  left:150px;
+  width: 400px
+}
+.t:hover{
+  background-color: #FAE279;
+}
+.u{
+  position: absolute;
+  top: 2000px;
+  left:750px;
+  width: 400px
+}
+.u:hover{
+  background-color: #FAE279;
+}
+.b{
+  position: absolute;
+  top: 2000px;
+  left:1350px;
+  width: 400px
+}
+.b:hover{
+  background-color: #FAE279;
+}
+.bottom{
+  position: absolute;
+  top: 2600px;
+  left:0px;
+  width: 2000px;
+  height: 70px;
+}
+.pro{
+  position: absolute;
+  top: 100px;
+  left: 900px;
+  font-family: 'BenchNine', sans-serif;
+}
+.here{
+  position: absolute;
+  top: 150px;
+  left: 570px;
+  font-family: 'Amatic SC', cursive;
+}
+.st{
+  position: absolute;
+  top: 400px;
+  left:200px;
+  width: 600px;
+}
+.st:hover{
+  background-color: #FAE279;
+
+}
+.mo{
+  position: absolute;
+  top: 400px;
+  left:1100px;
+  width: 600px
+}
+.ho{
+  position: absolute;
+  top: 900px;
+  left:200px;
+  width: 600px
+}
+.ca{
+  position: absolute;
+  top: 900px;
+  left:1100px;
+  width: 600px
+}
+.botto{
+  position: absolute;
+  top: 1400px;
+  left:0px;
+  width: 2000px;
+  height: 70px;
+}
+.what{
+  position: absolute;
+  top: 100px;
+  left:900px;
+  font-family: 'BenchNine', sans-serif;
+}
+.ah,.ahh,.ahhh,.ahhhh{
+  font-family: 'Amatic SC', cursive;
+}
+.ah,.ahhh{
+  font-size: 40px;
+}
+.ahh,.ahhhh{
+  font-size: 30px;
+}
+.ah{
+  position: absolute;
+  top: 300px;
+  left:400px;
+}
+.ahh{
+  position: absolute;
+  top: 400px;
+  left:400px;
+}
+.ahhh{
+  position: absolute;
+  top: 300px;
+  left:1300px;
+}
+.ahhhh{
+  position: absolute;
+  top: 400px;
+  left:1300px;
+}
+.insta{
+  position: absolute;
+  top: 1000px;
+  left:935px;
+  width:80px;
+}
+.bott{
+  position: absolute;
+  top: 1000px;
+  left:0px;
+  width: 2000px;
+  height: 50px;
+}
